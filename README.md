@@ -22,4 +22,7 @@
 </center>
 
 
+- `USE`: Universal Sentence Encoder
+- Validation Accuracy: `84%` 
+
 ----
