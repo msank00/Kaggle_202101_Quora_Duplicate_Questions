@@ -12,12 +12,14 @@
 
 - [Competition link](https://www.kaggle.com/c/quora-question-pairs)
 
+----
+
 ## Architecture
 
-<p align="center>
+
 <center>
-  <img src="images/NN_Architecture.jpg" width="400">
+  <img src='images/NN_Architecture.jpg' width='400'>
 </center>
-</p>
+
 
 ----
